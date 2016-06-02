@@ -1,0 +1,6 @@
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\bin\Debug\Reddit_212_Rovarspraket.exe.config
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\obj\Debug\Reddit_212_Rovarspraket.csprojResolveAssemblyReference.cache
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\bin\Debug\Reddit_212_Rovarspraket.exe
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\bin\Debug\Reddit_212_Rovarspraket.pdb
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\obj\Debug\Reddit_212_Rovarspraket.exe
+C:\Users\Kane-Desktop\Desktop\Unfinished Code\Reddit_212_Rovarspraket\Reddit_212_Rovarspraket\obj\Debug\Reddit_212_Rovarspraket.pdb
